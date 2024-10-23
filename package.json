@@ -1,0 +1,10 @@
+{
+  "name": "github-image-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "generate": "node scripts/generateImage.js"
+  },
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
