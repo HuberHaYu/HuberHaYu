@@ -1,10 +1,13 @@
 {
-  "name": "github-image-generator",
+  "name": "dynamic-image-demo",
   "version": "1.0.0",
-  "scripts": {
-    "generate": "node scripts/generateImage.js"
-  },
+  "main": "app.js",
   "dependencies": {
+    "express": "^4.17.1",
     "canvas": "^2.8.0"
+  },
+  "scripts": {
+    "start": "node app.js"
   }
 }
+
