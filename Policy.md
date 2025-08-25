@@ -2,7 +2,7 @@
 ## 最后更新日期：2025年4月24日
 
 1. 简介
-本应用（HXAudio）尊重并保护用户隐私。本政策说明我们如何收集、使用、存储和共享您的个人信息。使用本应用即表示您同意本政策的条款。
+本应用尊重并保护用户隐私。本政策说明我们如何收集、使用、存储和共享您的个人信息。使用本应用即表示您同意本政策的条款。
 
 2. 收集的信息
 我们可能收集以下信息：
@@ -21,7 +21,7 @@
 第三方服务商：如Google Ads（广告投放）、Firebase（崩溃分析），其使用受其隐私政策约束。</p>
 
 5. 数据安全</p>
-采用加密技术（如HTTPS）保护数据传输，但无法保证100%安全。</p>
+采用加密技术（如HTTPS）保护数据传输。</p>
 
 6. 您的权利
 
@@ -58,7 +58,7 @@ We do not sell your data. Sharing occurs only:</p>
 With Service Providers: Google Ads, Firebase (bound by their policies).</p>
 
 5. Security</p>
-We use encryption (e.g., HTTPS) but cannot guarantee absolute security.</p>
+We use encryption (e.g., HTTPS).</p>
 
 6. Your Rights</p>
 
