@@ -1,5 +1,5 @@
 # 隐私政策
-## 最后更新日期：2025年4月24日
+## 最后更新日期：2025年8月25日
 
 1. 简介
 本应用尊重并保护用户隐私。本政策说明我们如何收集、使用、存储和共享您的个人信息。使用本应用即表示您同意本政策的条款。
@@ -37,7 +37,7 @@
 邮箱：hub.jr@outlook.com
 
 
-## Last Updated: 2025.4.24
+## Last Updated: 2025.8.25
 
 1. Introduction
 HXAudio ("we") respects your privacy. This policy explains how we collect, use, and share your personal data. By using the app, you agree to these terms.
